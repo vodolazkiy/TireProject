@@ -1,0 +1,24 @@
+Record ID
+Campaign Number
+Make
+Model
+Year
+Manufacturing Campaign Number
+Component Name
+Manufacturing Name
+Begin Date of MFG
+End Date of MFG
+RCLTYPECD
+Potential Number of Affected Units
+ODATE
+Influenced By
+Manufacturer
+Record Received Date
+Record Creation Date
+RPNO
+FMVSS
+DESC_DEFECT
+CONEQUENCE_DEFECT
+CORRECTIVE ACTION
+NOTES
+RCL_CMPT_ID
